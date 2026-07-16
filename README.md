@@ -16,9 +16,9 @@ Ghana is a multilingual nation with over 80 indigenous languages. Of these, **12
 | 6 | Ewe | `ewe` | ~3,820,000 | Gbe | Volta |
 | 7 | Fante | `fat` | ~1,170,000 | Kwa | Central |
 | 8 | Ga | `gaa` | ~745,000 | Kwa | Greater Accra |
-| 9 | Gonja | `gnn` | ~310,000 | Kwa | Northern/Savannah |
+| 9 | Gonja | `gjn` | ~310,000 | Kwa | Northern/Savannah |
 | 10 | Gurene | `gur` | ~600,000 | Gur | Upper East |
-| 11 | Kasem | `kas` | ~250,000 | Gur | Upper East |
+| 11 | Kasem | `xsm` | ~250,000 | Gur | Upper East |
 | 12 | Nzema | `nzi` | ~330,000 | Kwa | Western |
 
 > **Note:** Akuapem Twi and Asante Twi share ISO 639-3 code `twi` as varieties of Twi, which falls under the Akan macrolanguage (ISO 639-3: `aka`).
