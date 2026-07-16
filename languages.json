@@ -1,0 +1,17 @@
+{
+  "description": "Official Ghanaian languages taught in schools — ISO 639-3 codes and estimated speaker counts",
+  "languages": [
+    { "name": "Akuapem Twi", "iso639_3": "twi" },
+    { "name": "Asante Twi", "iso639_3": "twi" },
+    { "name": "Dagaare", "iso639_3": "dga" },
+    { "name": "Dagbani", "iso639_3": "dag" },
+    { "name": "Dangme", "iso639_3": "ada" },
+    { "name": "Ewe", "iso639_3": "ewe" },
+    { "name": "Fante", "iso639_3": "fat" },
+    { "name": "Ga", "iso639_3": "gaa" },
+    { "name": "Gonja", "iso639_3": "gnn" },
+    { "name": "Gurene", "iso639_3": "gur" },
+    { "name": "Kasem", "iso639_3": "kas" },
+    { "name": "Nzema", "iso639_3": "nzi" }
+  ]
+}
